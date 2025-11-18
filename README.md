@@ -2,6 +2,8 @@
 
 A 16-bit DOS program to write `.img` files to a floppy disk sector by sector. Designed for testing bootloaders or working with old hardware.
 
+I am working on fixing a glitch that cuases this program to crash at 1440 sectors
+
 ---
 
 ## Features
